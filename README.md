@@ -49,7 +49,7 @@ y_mean=m*3+b
 ```
 
 ## Output:
-![best fit line](ml11.png)
+
 ![best fit line](ml12.png)
 
 
